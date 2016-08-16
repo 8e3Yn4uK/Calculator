@@ -2,9 +2,6 @@ package Calc;
 
 import java.util.Scanner;
 
-/**
- * Created by 1nsomnia on 14-Aug-16.
- */
 public class Initialization {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

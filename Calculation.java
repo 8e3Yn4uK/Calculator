@@ -1,10 +1,6 @@
 package Calc;
 
 
-
-/**
- * Created by 1nsomnia on 14-Aug-16.
- */
 public class Calculation {
     public static double calc(double d1, String zn, double d2) {
 
